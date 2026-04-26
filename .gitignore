@@ -1,3 +1,13 @@
+# Visual Studio (CRITICAL)
+.vs/
+*.user
+*.suo
+
+# Build output (CRITICAL)
+x64/
+Debug/
+Release/
+
 # Prerequisites
 *.d
 
